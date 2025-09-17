@@ -23,6 +23,16 @@ console.timeEnd("operacion");
 
 // Agrupación de mensajes
 console.group("Mi grupo de mensajes");
-console.log("Mensaje 1");
-console.log("Mensaje 2");
+console.log ("  _____");
+        console.log ("  | ___ |");
+        console.log ("  ||   ||  J.O.");
+        console.log ("  ||___||");
+        console.log ("  |   _ |");
+        console.log ("  |_____|");
+        console.log (" /_/_|_\\_\\----.");
+        console.log ("/_/__|__\\_\\   )");
+        console.log ("             (")
+        console.log ("            []")
+        console.log ("daniela");
+
 console.groupEnd();
